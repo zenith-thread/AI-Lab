@@ -1,0 +1,12 @@
+Source	Destination	Weight
+A	B	3
+A	C	5
+B	D	2
+B	E	4
+C	F	1
+D	E	1
+E	F	2
+B	F	3
+D	F	4
+A	D	6
+C	D	2
